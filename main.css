@@ -1,0 +1,8 @@
+/* this is a css file */
+
+/* Tell all the font on this page to be George Sarif,
+with a back up of sans-sarif*/
+
+*{
+	font-family: Georgia, Sans-serif;
+}
